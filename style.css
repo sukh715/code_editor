@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(78, 74, 74);
+    color: white;
+}
+
+#upper {
+    display: flex;
+    justify-content: center;
+}
+
+#htmlCode {
+    height: 50vh;
+    width: 470px;
+    margin: 0px 20px;
+    background-color: rgb(19, 18, 18);
+    color: white;
+    font-size: 25px;
+
+}
+
+#cssCode {
+
+    height: 50vh;
+    width: 470px;
+    margin: 0px 20px;
+    background-color: rgb(19, 18, 18);
+    color: red;
+    font-size: 25px;
+
+}
+
+#jsCode {
+    height: 50vh;
+    width: 470px;
+    margin: 0px 20px;
+    background-color: rgb(19, 18, 18);
+    font-size: 25px;
+    color: blue;
+}
+
+iframe {
+    height: 41vh;
+    width: 100%;
+    background-color: white;
+    border: 0;
+    outline: 0;
+
+}
+
+label {
+    margin: 0px 21px;
+
+}
